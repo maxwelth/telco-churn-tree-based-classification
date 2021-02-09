@@ -5,7 +5,7 @@ Classifying binary label using various tree based algorithms.
 # Telco Customer Churn : Project Overview
 * Predicted customer's churn rate to prevent and reduce loss of company.
 * Applied Cost-sensitive learning as a method for solving imbalanced dataset problems.
-* Optimized Tree-based algorithms such as Gradient Boosting Method, Random Forest Classifier and XGBoost (Extreme Gradient Boosting) using GridsearchCV to tuned the best hyperparameters. 
+* Optimized Tree-based algorithms such as Gradient Boosting Method, Random Forest Classifier and XGBoost (Extreme Gradient Boosting) using GridsearchCV to tune the best hyperparameters. 
 * Evaluated and chose the best model according to ROC-AUC and Recall metric.
 
 ## Code and Resources Used 
